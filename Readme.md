@@ -10,6 +10,6 @@ Tek yapmanız gereken modülleri indirmek ve projeyi başlatmak ek bir şey yapm
 ## Hata
 
 Hata alırsanız iletişim adreslerimiz:
-DC: InFlames#2005
-Sunucu: https://discord.gg/mztsyWR3QU
-Site: https://covid19code.herokuapp.com/
+DC: InFlames#2005 
+Sunucu: https://discord.gg/mztsyWR3QU 
+Site: https://covid19code.herokuapp.com/ 
