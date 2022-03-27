@@ -1,6 +1,6 @@
 ## Hakkında
 
-Proje tamamen bana ait değildir. Altyapı ilk baş hiç bir şekilde çalışmıyordu düzenleyip çalışır hale getirdim.
+Proje tamamen bana ait değildir. Altyapı ilk baş çalışmıyordu düzenleyip çalışır hale getirdim.
 Daha sonra kendi kodlarımıda ekleyip sizlerle paylaşmak istedim.
 
 ## Kurulum
