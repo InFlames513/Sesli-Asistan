@@ -5,13 +5,13 @@ Daha sonra kendi kodlarımıda ekleyip sizlerle paylaşmak istedim.
 
 ## Kurulum
 
-ÖNEMLİ: py
+ÖNEMLİ: pysound modülünün en son modülü bozuk indirmeniz gereken sürüm:  <b>pip install playsound==1.2.2</b>
 Tek yapmanız gereken modülleri indirmek ve projeyi başlatmak ek bir şey yapmanıza gerek yok.
 
 ## Hata
 
-<p>Hata alırsanız iletişim adreslerimiz:</p>
-<p>DC: InFlames#2005 </p>
-<p>Sunucu: https://discord.gg/mztsyWR3QU </p>
-<p>Site: https://covid19code.herokuapp.com/</p>
-<p>Alıntı altyapı: https://github.com/brainMinerYT</p>
+Hata alırsanız iletişim adreslerimiz: <br>
+DC: InFlames#2005 <br>
+Sunucu: https://discord.gg/mztsyWR3QU <br>
+Site: https://covid19code.herokuapp.com/<br>
+Alıntı altyapı: https://github.com/brainMinerYT
