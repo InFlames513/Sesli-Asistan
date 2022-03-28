@@ -1,11 +1,12 @@
 ## Hakkında
 
-Proje tamamen bana ait değildir. Altyapı ilk baş çalışmıyordu düzenleyip çalışır hale getirdim.
+Proje tamamen bana ait değildir.<br>
+Altyapı ilk baş çalışmıyordu düzenleyip çalışır hale getirdim.
 Daha sonra kendi kodlarımıda ekleyip sizlerle paylaşmak istedim.
 
 ## Kurulum
 
-ÖNEMLİ: pysound modülünün en son modülü bozuk indirmeniz gereken sürüm:  <b>pip install playsound==1.2.2</b>
+<b>ÖNEMLİ:</b> playsound modülünün en son modülü bozuk indirmeniz gereken sürüm:  <b>pip install playsound==1.2.2</b>
 Tek yapmanız gereken modülleri indirmek ve projeyi başlatmak ek bir şey yapmanıza gerek yok.
 
 ## Hata
