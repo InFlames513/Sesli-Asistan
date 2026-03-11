@@ -6,8 +6,8 @@ Daha sonra kendi kodlarımıda ekleyip sizlerle paylaşmak istedim.
 
 ## Kurulum
 
-<b>ÖNEMLİ:</b> playsound modülünün en son modülü bozuk indirmeniz gereken sürüm:  <b>pip install playsound==1.2.2</b>
-Tek yapmanız gereken modülleri indirmek ve projeyi başlatmak ek bir şey yapmanıza gerek yok.
+<b>ÖNEMLİ:</b> playsound modülünün en son modülü uyumlu değil, indirmeniz gereken sürüm:  <b>pip install playsound==1.2.2</b>
+Tek yapmanız gereken modülleri indirmek ve projeyi başlatmak, ek bir şey yapmanıza gerek yok.
 
 ## Hata
 
