@@ -12,7 +12,6 @@ Tek yapmanız gereken modülleri indirmek ve projeyi başlatmak, ek bir şey yap
 ## Hata
 
 Hata alırsanız iletişim adreslerimiz: <br>
-DC: InFlames#2005 <br>
-Sunucu: https://discord.gg/mztsyWR3QU <br>
-Site: https://covid19code.herokuapp.com/<br>
+Discord: inflames513 <br>
+Server: https://discord.gg/mztsyWR3QU <br>
 Alıntı altyapı: https://github.com/brainMinerYT
